@@ -1,5 +1,0 @@
-package Amplify.Amplify;
-
-public @interface CucumberOptions {
-
-}
